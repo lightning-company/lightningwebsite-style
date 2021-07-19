@@ -1,0 +1,11 @@
+* {
+    font-family:'Quicksand', sans-serif;
+}
+
+.title {
+    font-size: 16px;
+}
+
+.title__nav {
+    font-size: 1.2em;
+}
